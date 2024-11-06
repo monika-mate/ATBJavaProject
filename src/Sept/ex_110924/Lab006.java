@@ -19,6 +19,10 @@ public class Lab006 {
         // Non-Primitive data type (user defined)
 
         String name = "Monika"; //String is a bunch of character (collection of char)
+        // class type  = String
+        // interface type
+        // enum type
+
 
 
 
