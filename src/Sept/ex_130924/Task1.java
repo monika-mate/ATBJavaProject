@@ -32,5 +32,12 @@ public class Task1 {
         System.out.printf("%d * %d = %d", num, 9, num*9);
         System.out.println();
         System.out.printf("%d * %d = %d", num, 10, num*10);
+        System.out.println();
+
+        for (int i = 1; i <=10 ; i++) {
+            System.out.printf("%d * %d = %d",num, i, num*i );
+            System.out.println();
+
+        }
     }
 }

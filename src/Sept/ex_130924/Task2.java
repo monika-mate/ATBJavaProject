@@ -9,9 +9,10 @@ Print - a+b, a-b, ab, a/b, a%b all the outputs.
     public static void main(String[] args) {
         double a = 34;
         double b = 10;
-        System.out.println(a+b);
-        System.out.println(a-b);
-        System.out.println(a%b);
-        System.out.println(a/b);
+        System.out.printf("addition = %f \n", a+b);
+        System.out.printf("sub = %f  \n" , a-b);
+        System.out.printf("Modules = %f \n" , a%b);
+        System.out.printf("div %f  \n" , a/b);
+        System.out.printf("multi %f  \n" , a*b);
     }
 }
