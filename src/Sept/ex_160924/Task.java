@@ -10,6 +10,7 @@ public class Task {
 
        // Task 2  byte b=10; long l =10l How much byte it will used?
 
+        // for byte it will take 1 byte and 8 bits
       //  It will used 8 byte, long has biggest container so it will use 8 byte or 64 bits
 
 
